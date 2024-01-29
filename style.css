@@ -1,0 +1,142 @@
+
+.dot01{
+    animation: dot01 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot01{
+      0%{
+        transform: translateX(120px);
+      }
+      50%{
+        transform: translateZ(-50px);
+      }
+      100%{
+        transform: translateY(-50px);
+      }
+    }
+    .dot02{
+    animation: dot02 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot02{
+      0%{
+        transform: translateY(-50px);
+      }
+      50%{
+        transform: translateZ(-50px);
+      }
+      100%{
+        transform: translateX(50px);
+      }
+    }
+    .dot03{
+    animation: dot03 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot03{
+      0%{
+        transform: translateX(-120px);
+      }
+      50%{
+        transform: translateZ(50px);
+      }
+      100%{
+        transform: translateY(-50px);
+      }
+    }
+    .dot04{
+    animation: dot04 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot04{
+      0%{
+        transform: translateY(-50px);
+      }
+      50%{
+        transform: translateZ(-50px);
+      }
+      100%{
+        transform: translateX(50px);
+      }
+    }
+    .dot05{
+    animation: dot05 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot05{
+      0%{
+        transform: translateX(0px);
+      }
+      50%{
+        transform: translateZ(50px);
+      }
+      100%{
+        transform: translateY(-50px);
+      }
+    }
+    .dot06{
+    animation: dot06 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot06{
+      0%{
+        transform: translateY(-50px);
+      }
+      50%{
+        transform: translateZ(-50px);
+      }
+      100%{
+        transform: translateX(50px);
+      }
+    }
+    .dot07{
+    animation: dot07 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot07{
+      0%{
+        transform: translateX(120px);
+      }
+      50%{
+        transform: translateZ(50px);
+      }
+      100%{
+        transform: translateY(-50px);
+      }
+    }
+    .dot08{
+    animation: dot08 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot08{
+      0%{
+        transform: translateY(-50px);
+      }
+      50%{
+        transform: translateZ(-50px);
+      }
+      100%{
+        transform: translateX(50px);
+      }
+    }
+    .dot09{
+    animation: dot09 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot09{
+      0%{
+        transform: translateX(-120px);
+      }
+      50%{
+        transform: translateZ(50px);
+      }
+      100%{
+        transform: translateY(-50px);
+      }
+    }
+    .dot10{
+    animation: dot10 1s ease-in-out infinite alternate;
+    }
+    @keyframes dot10{
+      0%{
+        transform: translateY(-50px);
+      }
+      50%{
+        transform: translateZ(50px);
+      }
+      100%{
+        transform: translateX(50px);
+      }
+    }
+    
